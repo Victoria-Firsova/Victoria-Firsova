@@ -5,6 +5,9 @@
   <a href="https://hh.kz/resume/2c00354aff07d0b65b0039ed1f413551767471">
     <img src="https://img.shields.io/badge/HeadHunter-red?style=for-the-badge&logo=headhunter&logoColor=white" alt="HeadHunter Badge"/>
   </a>
+  <a href="https://t.me/victoriafrfr">
+		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+	</a>
 </div>
 <h1>
   hey there
@@ -26,7 +29,7 @@ I am junior Data Scientist from Russia, now living in Kazakhstan.
 
 - :bulb: in my free time I am training my skills on Kaggle
 
-- :mailbox_with_mail:How to reach me: [![HeadHunter Badge](https://img.shields.io/badge/HeadHunter-red?style=flat&logo=headhunter&logoColor=white)](https://hh.kz/resume/2c00354aff07d0b65b0039ed1f413551767471)
+- :mailbox_with_mail:How to reach me: [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/victoriafrfr)
 
 ---
 
