@@ -11,3 +11,33 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
+<div align="center">
+  <img src="https://www.cloudyml.com/wp-content/uploads/2022/06/data-analytics-services-image.gif" width="600" height="300"/>
+</div>
+
+---
+
+### :woman_technologist: About Me :
+I am junior Data Scientist from Russia, now living in Kazakhstan.
+
+- :computer: I have functional experience in commercial and sale departments in B2B companies, in basic analysis. Now I am looking for a job in the field of analytics and data analysis
+
+- :pencil: exploring ML models and big data analysis
+
+- :bulb: in my free time I am training my skills on Kaggle
+
+- :mailbox_with_mail:How to reach me: [![HeadHunter Badge](https://img.shields.io/badge/HeadHunter-red?style=flat&logo=headhunter&logoColor=white)](https://hh.kz/resume/2c00354aff07d0b65b0039ed1f413551767471)
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://findicons.com/files/icons/2795/office_2013_hd/2000/excel.png" title="Excel" alt="Excel" width="40" height="40"/>&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" title="Power BI" alt="Power BI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter Notebook" alt="Jupiter Notebook" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
+
+
+</div>
