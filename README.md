@@ -25,11 +25,11 @@ I am junior Data Scientist from Russia, now living in Kazakhstan.
 
 - :computer: I have functional experience in commercial and sale departments in B2B companies, in basic analysis. Now I am looking for a job in the field of analytics and data analysis
 
-- :pencil: exploring ML models and big data analysis
+- :pencil: Exploring ML models and big data analysis
 
-- :bulb: in my free time I am training my skills on Kaggle
+- :bulb: In my free time I am training my skills on Kaggle
 
-- :mailbox_with_mail:How to reach me: [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/victoriafrfr)
+- :mailbox_with_mail: How to reach me: [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/victoriafrfr)
 
 ---
 
