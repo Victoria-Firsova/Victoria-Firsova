@@ -21,9 +21,9 @@
 ---
 
 ### :woman_technologist: About Me :
-I am junior Data Scientist from Russia, now living in Kazakhstan.
+I am Data Scientist in a search for new projects.
 
-- :computer: I have functional experience in commercial and sale departments in B2B companies, in basic analysis. Now I am looking for a job in the field of analytics and data analysis
+- :computer: I have functional experience in commercial and sale departments in B2B companies
 
 - :pencil: Exploring ML models and big data analysis
 
@@ -40,7 +40,7 @@ I am junior Data Scientist from Russia, now living in Kazakhstan.
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter Notebook" alt="Jupyter Notebook" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 
 
